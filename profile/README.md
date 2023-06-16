@@ -12,6 +12,6 @@ Always willing to create unique and quality experiences and products, with our o
 
 ## Archived Projects
 
-We have a philosophy that old non-commercial projects that have been archived or will not be updated should be shared with everyone! Therefore, [click here](./ARCHIVED_PROJECTS.md) to see the list of archived projects that can already be used freely.
+We have a philosophy that old non-commercial projects that have been archived or will not be updated should be shared with everyone! Therefore, [click here](https://github.com/Seface-Blocks/.github/blob/main/ARCHIVED_PROJECTS.md) to see the list of archived projects that can already be used freely.
 
 <contact@sefaceblocks.net>
