@@ -6,7 +6,7 @@ Seface Blocks aims to create experiences focused on electronic games, bringing l
 
 Always willing to create unique and quality experiences and products, with our own projects or services provided to third parties.
 
-:brazil: As a Brazilian team, we have an internal incentive for Brazilians who want to learn how to develop content for games like Minecraft or Fortnite. We know how difficult the game and development market is in our country, so we are here to help with whatever is necessary.
+<img src="./../.github/flag_br.png" width="16" height="16" /> As a Brazilian team, we have an internal incentive for Brazilians who want to learn how to develop content for games like Minecraft or Fortnite. We know how difficult the game and development market is in our country, so we are here to help with whatever is necessary.
 
 ---
 
