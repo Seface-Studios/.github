@@ -1,5 +1,5 @@
 # Seface Blocks
-![Twitter](https://img.shields.io/badge/@SefaceBlocks-00ACEE?&logo=twitter&logoColor=fff) <!-- ![Discord Server](https://img.shields.io/discord/102860784329052160?label=Discord&logo=discord&logoColor=FFF) -->
+![X](https://img.shields.io/badge/@SefaceBlocks-black?&logo=x&logoColor=fff) <!-- ![Discord Server](https://img.shields.io/discord/102860784329052160?label=Discord&logo=discord&logoColor=FFF) -->
 
 ## About us
 Seface Blocks aims to create experiences focused on electronic games, bringing learning and fun to those who consume our products.
